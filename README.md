@@ -5,7 +5,7 @@ This informal project is currently led by **Fabio Marroni**, with the help of ma
 
 Currently, the PhD student **Massimo Guazzini** is actively working on the project.
 
-The Bsc student **Laura D'Andrea** is instead no longer working on it (since she is apparently graduating!). You can find the source code for her degree disseration in the folder named [tesi_dandrea](tesi_dandrea)
+The Bsc student **Laura D'Andrea** is instead no longer working on it (since she is apparently graduating!). You can find the source code for the analysis of herthesis work in the folder named [tesi_dandrea](tesi_dandrea)
 
 
 Below, you can see a partial glance of our experimental set-up.
