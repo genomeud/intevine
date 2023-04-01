@@ -8,6 +8,8 @@ The project is work in progress, and the material contained in this page will be
 
 Currently, the PhD student **Massimo Guazzini** is actively working on the project.
 
-The Bsc student **Laura D'Andrea** is instead no longer working on it (since she is apparently graduating!). You can find the source code for her degree disseration in the folder ![TesiLaura](tesi_dandrea)
+The Bsc student **Laura D'Andrea** is instead no longer working on it (since she is apparently graduating!). You can find the source code for her degree disseration in the folder named [tesi_dandrea](tesi_dandrea)
+
+Below, you can see a partial glance of our experimental set-up.
 
 ![alt text](experimental_setup.png)
