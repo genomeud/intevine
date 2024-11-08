@@ -3,7 +3,8 @@ Here you will find data, code and information related to the project "Intevine",
 
 This informal project is currently led by **Fabio Marroni**, with the help of many other researchers (which you will get to know in due time) and has been made possible by the collaboration between several researchers and institutions. The "lead partner" is the University of Udine, and we gratefully acknowledge help from the Institute of Applied Genomics, IGA technology services s.r.l., Vivai Cooperativi Rauscedo, and the IMEM institute of CNR in Parma. 
 
-Currently, the PhD student **Massimo Guazzini** is actively working on the project.
+
+Currently, the PhD student **Massimo Guazzini** is actively working on the project. Massimo spent three months of his PhD at King Abdullah University of Science and Technology, under the supervision of Daniele Daffonchio, to perform part of the analysis that form his PhD thesis.
 
 The Bsc student **Laura D'Andrea** is instead no longer working on it (since she is apparently graduating!). You can find the source code for the analysis of herthesis work in the folder named [tesi_dandrea](tesi_dandrea)
 
